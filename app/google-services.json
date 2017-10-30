@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "19968194659",
+    "firebase_url": "https://listas-43ee8.firebaseio.com",
+    "project_id": "listas-43ee8",
+    "storage_bucket": "listas-43ee8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:19968194659:android:f4fad27ff3634e2f",
+        "android_client_info": {
+          "package_name": "com.example.danni.listas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "19968194659-7lnu5mbf51tfm8rguh6spo8071p6jab3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.danni.listas",
+            "certificate_hash": "44f0e4116eceb81dfe9936419a5365c61ce6b949"
+          }
+        },
+        {
+          "client_id": "19968194659-bp5so16kut2caqs6dmff3hu2lus6ie4f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBV0CliL8RxttPyHMGtHp2TrBAw-1w09Ig"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "19968194659-bp5so16kut2caqs6dmff3hu2lus6ie4f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
